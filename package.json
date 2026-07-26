@@ -2,10 +2,9 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "rich-emoji-search",
   "title": "Rich Emoji Search",
-  "description": "Search gh://textualize/rich's emojis and paste them to the current active window or copy to clipboard.",
+  "description": "Search the emojis textualize/rich exposes and paste either the emoji or its :name: console markup.",
   "icon": "extension-icon.png",
   "author": "maxwell_ludden",
-  "owner": "ludden",
   "platforms": [
     "Windows",
     "macOS"
