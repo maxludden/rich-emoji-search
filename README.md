@@ -1,6 +1,6 @@
 # Rich Emoji Search
 
-![rich-emoji-search](metadata/rich-emoji-seach-dark.png)
+![rich-emoji-search](metadata/rich-emoji-search-dark.png)
 
 Fuzzy-search the 3,608 emojis that [textualize/rich](https://github.com/Textualize/rich)
 exposes, then paste or copy either the emoji itself or its `:name:` console markup.
